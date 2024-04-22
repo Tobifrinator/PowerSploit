@@ -10,7 +10,6 @@ Optional Dependencies: None
 
 #>
 
-#Requires -Version 2
 
 
 ########################################################
