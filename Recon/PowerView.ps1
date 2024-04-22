@@ -1,5 +1,3 @@
-#requires -version 2
-
 <#
 
 PowerSploit File: PowerView.ps1
